@@ -1,1 +1,1 @@
-# [Visit the Wiki for contents](https://github.com/solliancenet/data-ai-practice-resources/wiki)
+# [Visit the Wiki for contents](https://github.com/solliancenet/data-ai-practice-resources/wiki/Data---AI-Resources)
